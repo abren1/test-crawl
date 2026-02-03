@@ -1,5 +1,0 @@
-# robots.txt (example: wildcard only)
-User-agent: *
-Disallow: /private/
-
-Sitemap: https://abren1.github.io/sitemap.xml
